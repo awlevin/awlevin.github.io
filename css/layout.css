@@ -581,28 +581,24 @@ ul#nav li.current a { color: #F06000; }
 /* f. Call To Action Section
 /* ------------------------------------------------------------------ */
 
+
 #call-to-action {
    background: #212121;
    padding-top: 66px;
    padding-bottom: 48px;
 }
-#call-to-action h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
-   text-transform: uppercase;
-   letter-spacing: 3px;
-   color: #fff;
-}
 #call-to-action h1 span { display: none; }
-#call-to-action .header-col h1:before {
+#call-to-action h1:before {
    font-family: 'FontAwesome';
-   content: "\f0ac";
-	padding-right: 10px;
-	font-size: 72px;
+   content: "\f0e0";
+  padding-right: 10px;
+  font-size: 72px;
    line-height: 72px;
    text-align: left;
    float: left;
-   color: #fff;
+   color: #ebeeee;
 }
+
 #call-to-action .action {
    margin-top: 12px;
 }
