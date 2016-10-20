@@ -4,13 +4,10 @@
 <!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
 <head>
 
-<<<<<<< HEAD
-=======
-<!--- TEST COMMENT FOR NEW BRANCH ---!>
+<!--- new TEST COMMENT FOR NEW BRANCH ---!>
 
 
 
->>>>>>> testbranch
    <!--- Basic Page Needs
    ================================================== -->
    <meta charset="utf-8">
@@ -64,17 +61,14 @@
       <div class="row banner">
          <div class="banner-text">
             <h1 class="responsive-headline">Aaron Levin</h1>
-<<<<<<< HEAD
             <h3>I'm a <span>Chicago</span> native interested in <span>software engineering</span>. <br>Currently, I'm a student at the <span>University of Wisconsin - Madison</span>, studying <span>computer engineering</span>, <span>computer science</span>, and <span> mathematics</span>. <br><br><a class="smoothscroll" href="#about">Click here</a> to learn more <a class="smoothscroll" href="#about">about me</a>.</h3>
-=======
-            <h3>I'm a <span>Chicago</span> native with a passion for <span>software engineering</span>. <br>Currently, I'm a student at the <span>University of Wisconsin - Madison</span>, studying <span>computer engineering</span>, <span>computer science</span>, and <span> mathematics</span>. <br><br><a class="smoothscroll" href="#about">Click here</a> to learn more <a class="smoothscroll" href="#about">about me</a>.</h3>
->>>>>>> testbranch
             <hr />
             <ul class="social">
                <li><a href="https://www.facebook.com/awlevin"><i class="fa fa-facebook"></i></a></li>
                <li><a href="https://twitter.com/awlevin"><i class="fa fa-twitter"></i></a></li>
                <li><a href="https://www.linkedin.com/in/awlevin"><i class="fa fa-linkedin"></i></a></li>
-               <li><a href="https://www.instagram.com/awlevin/"><i class="fa fa-instagram"></i></a></li>
+               <li><a href="https://github.com/awlevin"><i class="fa fa-github"></i></a></li>
+
             </ul>
          </div>
       </div>
@@ -110,11 +104,7 @@
 
                <div class="columns contact-details">
 
-<<<<<<< HEAD
                   <h2>Contact Me</h2>
-=======
-                  <h2>Contact Me!</h2>
->>>>>>> testbranch
                   <p class="address">
 						   Aaron Levin<br>
                      <a href="mailto:aaron@aaronideas.com" target="_top">aaron@aaronideas.com</a>
@@ -202,7 +192,7 @@
                   <p class="info">Student Technical Editor <span>&bull;</span> <em class="date">May 2015 - August 2015</em></p>
 
                   <p>
-                  Worked on a team of 6 undergraduates to drastically improve the style, pedagogy, and concisision of an open-sourced introductory computer engineering textbook. Traditional intro computer engineering textbooks are written from a "bottom-up" approach (teaching hardware before software), so the goal of this text was to see if a less conventional "top-down" approach was more effective. The text was later used in a course taught by Professor Karu Sankaralingam, whom I worked closely with throughout the revision process. <br><a href="http://discovering.cs.wisc.edu/text/box.xml"> Click here to see it for yourself!</a> 
+                  Worked on a team of 6 undergraduates to drastically improve the style, pedagogy, and concision of an open-sourced introductory computer engineering textbook. Traditional intro computer engineering textbooks are written from a "bottom-up" approach (teaching hardware before software), so the goal of this text was to see if a less conventional "top-down" approach was more effective. The text was later used in a course taught by Professor Karu Sankaralingam, whom I worked closely with throughout the revision process. <br><a href="http://discovering.cs.wisc.edu/text/box.xml"> Click here to see it for yourself!</a> 
 
                   And my name in the<a href="http://discovering.cs.wisc.edu/text/info/acknowledgements.xml">  acknowledgment section!</a>
                   </p>
@@ -218,11 +208,7 @@
                   <h3>Highland Park Park District</h3>
                   <p class="info">Camp Counselor <span>&bull;</span> <em class="date">June 2014 - August 2014</em></p>
 
-<<<<<<< HEAD
-                  <p>Co-counselor for a group of 15 prospective third graders participating a variety camp. Instilled important values, such as: including others, rule following, and not interrupting when someone is speaking. Also responsible for seeing that two campers with special accommodations felt comfortable participating.</p>
-=======
-                  <p>Co-counselor for a group of 15 prospective 3rd graders participating a variety camp. Instilled important values, such as: including others, rule following, and not interrupting when someone is speaking. Also responsible for seeing that 2 campers with special accommodations felt comfortable participating.</p>
->>>>>>> testbranch
+                  <p>Co-counselor for a group of 15 prospective third graders participating in a variety camp. Instilled important values, such as: including others, rule following, and not interrupting when someone is speaking. Also responsible for seeing that two campers with special accommodations felt comfortable participating.</p>
 
                </div>
 
@@ -247,11 +233,14 @@
                <div class="twelve columns">
 
                   <h3>National Organization for Business and Engineering (NOBE)</h3>
-                  <p class="info">Technology Director <span>&bull;</span> National Outreach Representative<span>&bull;</span> <em class="date">August 2015 - Present</em></p>
+                  <p class="info">Technology Director <span>&bull;</span>National Outreach Representative<span>&bull;</span>Internal Vice President<span>&bull;</span> <em class="date">August 2015 - Present</em></p>
 
-                  <p>Just before I began attending UW-Madison, NOBE was a failing student organization that eventually disbanded my freshmen year. When a roommate of mine asked me if I'd be interested joining, I immediately got on-board. Myself and 3 others interviewed over 50 highly qualified applicants, and selected only 10 to form our new Executive Board. </p>
+                  <p>Just before I began attending UW-Madison, NOBE was a failing student organization that eventually disbanded my freshmen year. When one of my roommates asked if I'd be interested joining, I immediately got on-board. Myself and 3 others interviewed over 50 highly qualified applicants, and selected only 10 to form our new Executive Board. </p>
 
-                  <p>As Technology Director, I was responsible for website and online calendar maintenance, general bookkeeping, and arranging new platforms for efficient communication. As National Outreach Representative, it was my responsibility to communicate important deadlines, goals, and accomplishments between the NOBE National Board and our individual chapter. <br> <a href="https://www.nobenational.org/wisconsin/home.php">Click here to see our website!</a> </p>
+                  <p>As Technology Director, I was responsible for website and online calendar maintenance, general bookkeeping, and implementing platforms for communication within the executive board. As National Outreach Representative, it was my responsibility to communicate important deadlines, goals, and accomplishments between the NOBE National Board and our individual chapter. 
+                  </p>
+
+                  <p>I quickly felt underwhelmed by my obligations as National Outreach Representative, and I also noticed that our president wasn't doing the best he could to lead the organization. Thus, I made a proposal to switch roles and take on the duties of Internal Vice President. I'm proud to say that I've now contributed a substantial amount to the overall competence of NOBE for the Fall 2016 semester.<br> <a href="https://www.nobenational.org/wisconsin/home.php">Click here to see our website!</a> </p>
 
                </div>
 
@@ -282,11 +271,7 @@
                   <h3>Zeta Beta Tau – Alpha Kappa Chapter</h3>
                   <p class="info">Pledge Class President <span>&bull;</span> General Member <span>&bull;</span>  <em class="date">January 2015 - January 2016</em></p>
 
-<<<<<<< HEAD
                   <p>As Spring 2015 pledge class presdient, I was responsible for communicating all important information and deadlines between the executive board and my 8 person pledge class. I was personally held accountable for any misscomunications or missed deadlines. As a team, we worked tirelessly for a semester to learn all fraternal history and traditions. Due to personal disagreements with Greek Life as a whole, and my desire to diversify myself, I ultimately parted ways with ZBT after one semester of being recogznied as a fully initiated brother. 
-=======
-                  <p>As Spring 2015 pledge class presdient, I was responsible for communicating all important information and deadlines between the executive board and my 8 person pledge class. I was personally held accountable for any misscomunications or missed deadlines. As a team, we worked tirelessly for a semester to learn all fraternal history and traditions. Due to personal disagreements with Greek Life as a whole, and my desire to diversify myself, I ultimately parted ways with ZBT after 1 semester of being recogznied as a fully initiated brother. 
->>>>>>> testbranch
                   </p>
 
                </div>
@@ -643,11 +628,7 @@
 
             <div class="two columns header-col">
 
-<<<<<<< HEAD
-               <h1><span>My Favorite Quotes to Live By</span></h1>
-=======
                <h1><span>Great Quotes to Live By</span></h1>
->>>>>>> testbranch
 
             </div>
 
@@ -774,7 +755,7 @@
                <li><a href="https://www.facebook.com/awlevin"><i class="fa fa-facebook"></i></a></li>
                <li><a href="https://twitter.com/awlevin"><i class="fa fa-twitter"></i></a></li>
                <li><a href="https://www.linkedin.com/in/awlevin"><i class="fa fa-linkedin"></i></a></li>
-               <li><a href="https://www.instagram.com/awlevin/"><i class="fa fa-instagram"></i></a></li>
+               <li><a href="https://github.com/awlevin"><i class="fa fa-github"></i></a></li>
             </ul>
 
             <ul class="copyright">
